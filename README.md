@@ -66,4 +66,4 @@ uvicorn app.main:app --reload
 ```
 Documentación interactiva disponible en `http://127.0.0.1:8000/docs`.
 
-
+## Actualiza documentación y detalles en README
