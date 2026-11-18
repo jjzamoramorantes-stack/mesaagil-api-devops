@@ -66,4 +66,6 @@ uvicorn app.main:app --reload
 ```
 Documentación interactiva disponible en `http://127.0.0.1:8000/docs`.
 
+## Declaración de Uso de Inteligencia Artificial
 
+En cumplimiento de los lineamientos académicos y éticos de la Corporación Universitaria Iberoamericana, se declara el uso de inteligencia artificial generativa (Gemini, Google) como herramienta de apoyo para la estructuración inicial del código base en FastAPI, la plantilla de pruebas unitarias bajo el patrón Preparar–Actuar–Verificar y la redacción técnica de este archivo `README.md`. La validación funcional, la ejecución de las pruebas y la gestión del flujo de ramas y *Pull Requests* en GitHub fueron ejecutadas y verificadas por el autor (**Juan José Zamora Morantes**).
